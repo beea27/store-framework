@@ -9,7 +9,7 @@
       "slider-layout#home",
       "responsive-layout",
       "responsive-layout.desktop#desktop",
-      "esponsive-layout.mobile#mobile"
+      "responsive-layout.mobile#mobile"
     ]
   },
   "rich-text": {
@@ -114,7 +114,7 @@
         "url": "/small-appliances/coffee-makers"
       } ,
       "alt": "Coffee Makers Collection",
-      "width": "100%"
+      "max-width": "100%"
     }
   },
   
@@ -125,7 +125,7 @@
         "url": "/small-appliances/coffee-makers"
       } ,
       "alt": "Coffee Makers Collection",
-      "width": "100%"
+      "max-width": "100%"
     }
   }
 }
