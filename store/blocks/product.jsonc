@@ -33,9 +33,9 @@
   "sku-selector": {
     "props": {
       "hideImpossibleCombinations": false,
-      "showValueForVariation": "image",
       "initialSelection": "empty",
-      "showVariations": true
+      "showValueForVariation": "image",
+      "showVariationsErrorMessage": true
     }
   },
 
