@@ -30,6 +30,15 @@
     ]
   },
 
+  "sku-selector": {
+    "props": {
+      "hideImpossibleCombinations": false,
+      "showValueForVariation": "image",
+      "initialSelection": "empty",
+      "showVariations": true
+    }
+  },
+
   "product-brand": {
     "props": {
       "displayMode": "logo",
@@ -65,14 +74,6 @@
     "props": {
       "showSaviungs": true,
       "showListPrice": true
-    }
-  },
-
-  "sku-selector": {
-    "props": {
-      "hideImpossibleCombinations": true,
-      "visibility":"always",
-      "showValueForVariation": "image"
     }
   },
 
