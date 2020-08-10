@@ -30,6 +30,13 @@
     ]
   },
 
+  "product-brand": {
+    "props": {
+      "displayMode": "logo",
+      "imageHeight": 30
+    }
+  },
+
   "sku-selector": {
     "props": {
       "hideImpossibleCombinations": false,
@@ -38,14 +45,6 @@
       "showVariationsErrorMessage": true
     }
   },
-
-  "product-brand": {
-    "props": {
-      "displayMode": "logo",
-      "imageHeight": 30
-    }
-  },
-
 
   "flex-layout.col#right": {
     "children": [
