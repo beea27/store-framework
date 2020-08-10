@@ -50,5 +50,19 @@
       "showSaviungs": true,
       "showListPrice": true
     }
+  },
+
+  "sku-selector": {
+    "props": {
+      "hideImpossibleCombinations": true
+    }
+  },
+
+  "product-quantity": {
+    "props": {
+      "hideImpossibleCombinations": true
+    }
   }
+
+  
 }
