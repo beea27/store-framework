@@ -1,0 +1,24 @@
+{
+  "store.custom#landing": { 
+    "blocks": [
+      "image#landingbanner", 
+      "search-result-layout.customQuery"
+    ]
+  },
+  "image#landingbanner": {
+    "props": {
+      "minWidth": "100%",
+      "src": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-space-gray-select-201810?wid=892&hei=820&&qlt=80&.v=1541713862468"
+    }
+  },
+  "search-result-layout.customQuery": {
+    "props": {
+      "querySchema": {
+        "orderByField": "OrderByReleaseDateDESC",
+        "hideUnavailableItems": true,
+        "maxItemsPerPage": 8,
+        "queryField": "Blue Top Retro Camera"
+      }
+    }
+  }
+}
