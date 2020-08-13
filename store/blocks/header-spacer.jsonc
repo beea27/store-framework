@@ -31,7 +31,7 @@
       "header-spacer"
     ]
   },
-  "header-row#main":{
+  "header-row#main": {
     "children": [
       "logo",
       "header-spacer",
@@ -39,7 +39,7 @@
       "minicart",
       "login"
     ],
-    "props":{
+    "props": {
       "inverted": true,
       "sticky": true,
       "fullWidth": false
@@ -66,20 +66,20 @@
     }
   },
   "login":{
-      "props": {
-        "showIconProfile": true,
-        "iconLabel": "Login"
-      }
+    "props": {
+      "showIconProfile": true,
+      "iconLabel": "Login"
+    }
   },
   "logo":{
-      "props": {
-        "url": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/flatflat___6081e50402943bcb11bc45a8e613aa72.png"
-      }
+    "props": {
+      "url": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/flatflat___6081e50402943bcb11bc45a8e613aa72.png"
+    }
   },
   "rich-text#header": {
-      "props": {
-        "text": "**Free Shipping on orders over $50**",
-        "textPosition": "CENTER"
-      }
+    "props": {
+      "text": "**Free Shipping on orders over $50**",
+      "textPosition": "CENTER"
+    }
   }
 }
